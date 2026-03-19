@@ -74,7 +74,7 @@ const Footer = () => {
             <Typography variant="body1" mt={1.5} sx={{ color: "gray" }}>
               call u{" "}
               <span style={{ color: "white" }}>
-                +923432535307 / +923110242139
+                +923432535307 / +923110242133
               </span>
             </Typography>
             <Typography variant="body1" mt={1.5} sx={{ color: "gray" }}>
