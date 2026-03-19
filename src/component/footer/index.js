@@ -78,7 +78,7 @@ const Footer = () => {
               </span>
             </Typography>
             <Typography variant="body1" mt={1.5} sx={{ color: "gray" }}>
-              Email us{" "}
+              Email us at{" "}
               <span style={{ color: "white" }}>admin@amberstore.pk</span>
             </Typography>
             <Typography variant="body1" mt={1.5} sx={{ color: "gray" }}>
