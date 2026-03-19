@@ -69,7 +69,7 @@ const Footer = () => {
         <Grid item xs={12} sm={6} md={4}>
           <Box textAlign="center" sx={{ padding: "10px" }}>
             <Typography variant="body1" mt={1.5}>
-              Need Help Contact Us ?
+              Need Help Contact Us / Join Us ?
             </Typography>
             <Typography variant="body1" mt={1.5} sx={{ color: "gray" }}>
               call u{" "}
